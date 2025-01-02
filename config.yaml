@@ -1,0 +1,3 @@
+app_name: "SampleApp"
+version: "1.0.0"
+logging_level: "DEBUG"
